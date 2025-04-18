@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/akkhan2122",
   resume:
-    "https://drive.google.com/drive/my-drive",
+    "https://drive.google.com/file/d/1bPLJilo1LRfR97Wc1opZ-_DHjvrw7vW1/view",
   linkedin: "https://www.linkedin.com/in/awais-khan2/",
   insta: "https://www.instagram.com/awais_khan_126/",
   facebook: "https://www.facebook.com/profile.php?id=100075338209718",
